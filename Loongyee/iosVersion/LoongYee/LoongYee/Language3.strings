@@ -1,0 +1,67 @@
+/* 
+  Language3.strings
+  LoongYee
+
+  Created by user on 14-4-14.
+  Copyright (c) 2014年 FelixMac. All rights reserved.
+*/
+
+//home
+"HOME_TEMP" = "溫度";
+"HOME_HUMIDITY" = "濕度";
+"HOME_SWITCH_OPTION" = "遠端燈控";
+"HOME_SETTING_OPTION" = "系統控制";
+//switch
+"SWITH_TITLE" = "開關";
+"SWITH_EDIT" = "編輯";
+"SWITH_BACK" = "返回";
+"SWITH_SAVE" = "保存";
+"SWITH_TIMER" = "請選擇定時時間";
+"SWITH_CANCEL" = "取消";
+"SWITH_OK" = "確定";
+"SWITH_BUSY" = "正在操作中";
+//setting
+"SETTING_TITLE" = "設定";
+"SETTING_OPTION1" = "感謝您的使用!";
+"SETTING_OPTION2" = "請輸入管理者密碼。";
+"SETTING_OPTION3" = "輸入密碼後登入，將有測試權限。";
+"SETTING_LONIN" = "登入";
+"SETTING_NAME" = "修改名稱";
+"SETTING_SET" = "預設";
+"SETTING_LABEL_VERSION" = "版本:";
+
+
+//study
+"STUDY_BTN" = "配對";
+"STUDING_BTN" = "配對中...";
+"STUDY_REFRE_BTN" = "刷新";
+"STUDY_ALL_OFF" = "全部關閉";
+"STUDY_FIND" = "搜尋中";
+"STUDY_OFF_FIND" = "取消搜尋";
+"STUDY_CLEAR_DEVICE" = "是否清空設備?";
+"STUDY_YES" = "是";
+"STUDY_NO" = "否";
+
+"LOADING_WAITING" = "處理中...";
+
+"ALTER_OPTION" = "請檢查您的網絡連接";
+"ALTER_ERROR" = "出現錯誤碼請聯絡廠商";
+"ALTER_DEVICE" = "無設備";
+
+
+//监视器
+"MONITORING_TITLE" = "監視器";
+
+//Plug
+"PLUG_TITLE" = "插座";    // 依客戶要求將Plug調整成插座
+
+//家电
+"HOUSEHOLD_TITLE" = "家電";
+
+//温度湿度
+"T_H_TITLE" = "溫濕度";
+"T_H_T" = "溫度";
+"T_H_H" = "濕度";
+
+//提示
+"OPTION_CONTENT" = "此功能尚未開放，敬請期待";

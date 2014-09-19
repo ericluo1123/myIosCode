@@ -1,0 +1,64 @@
+/* 
+  Language2.strings
+  LoongYee
+
+  Created by user on 14-4-14.
+  Copyright (c) 2014年 FelixMac. All rights reserved.
+*/
+//home
+"HOME_TEMP" = "Temp";
+"HOME_HUMIDITY" = " Humidity";
+"HOME_SWITCH_OPTION" = "Remote control lamp";
+"HOME_SETTING_OPTION" = "System control";
+//switch
+"SWITH_TITLE" = "Switch";
+"SWITH_EDIT" = "Edit";
+"SWITH_BACK" = "Back";
+"SWITH_SAVE" = "Save";
+"SWITH_TIMER" = "Please select a regular time";
+"SWITH_CANCEL" = "Cancel";
+"SWITH_OK" = "OK";
+"SWITH_BUSY" = "Being operated";
+//setting
+"SETTING_TITLE" = "Setting";
+"SETTING_OPTION1" = "Thank you for your use!";
+"SETTING_OPTION2" = "Please enter the administrator password.";
+"SETTING_OPTION3" = "Enter the password after login, there will be testing authority.";
+"SETTING_LONIN" = "Login";
+"SETTING_NAME" = "Edit Name";
+"SETTING_SET" = "default";
+"SETTING_LABEL_VERSION" = "Version:";
+
+//study
+"STUDY_BTN" = "Pair";
+"STUDING_BTN" = "Pairing...";
+"STUDY_REFRE_BTN" = "Refresh";
+"STUDY_ALL_OFF" = "All Off";
+"STUDY_FIND" = "Search";
+"STUDY_OFF_FIND" = "Cancel search";
+"STUDY_CLEAR_DEVICE" = "Do you want to empty the equipment?";
+"STUDY_YES" = "YES";
+"STUDY_NO" = "NO";
+
+"LOADING_WAITING" = "Waiting...";
+
+"ALTER_OPTION" = "Please check your network connection";
+"ALTER_ERROR" = "The error code please contact the manufacturer";
+"ALTER_DEVICE" = "No Device";
+
+//监视器
+"MONITORING_TITLE" = "Monitor";
+
+//Plug
+"PLUG_TITLE" = "Plug";
+
+//家电
+"HOUSEHOLD_TITLE" = "Household appliances";
+
+//温度湿度
+"T_H_TITLE" = "Temperature and humidity";
+"T_H_T" = "Temperature";
+"T_H_H" = "humidity";
+
+//提示
+"OPTION_CONTENT" = "Sorry, this is not yet implemented";
